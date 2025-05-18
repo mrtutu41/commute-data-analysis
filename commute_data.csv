@@ -1,0 +1,201 @@
+commuter_id,date,entry_station,exit_station,commute_time_min,fare_paid,payment_method,train_delay_min,transfer_count,time_of_day
+1000,2024-05-01,Grand Central,34th-Penn,28,2.72,OMNY,0,0,Afternoon
+1001,2024-05-02,14th Union Sq,125th St,35,2.69,MetroCard,0,1,Evening
+1002,2024-05-03,Brooklyn Br,125th St,15,2.82,MetroCard,0,1,Morning
+1003,2024-05-04,Grand Central,Brooklyn Br,35,2.67,OMNY,0,0,Morning
+1004,2024-05-05,34th-Penn,Wall St,22,2.72,OMNY,5,2,Morning
+1005,2024-05-06,34th-Penn,Borough Hall,27,2.78,OMNY,8,2,Night
+1006,2024-05-07,34th-Penn,23rd St,19,2.8,MetroCard,2,0,Night
+1007,2024-05-01,Times Sq-42nd,14th Union Sq,21,2.78,MetroCard,5,1,Afternoon
+1008,2024-05-02,14th Union Sq,Times Sq-42nd,39,2.66,OMNY,0,0,Night
+1009,2024-05-03,Jamaica Ctr,14th Union Sq,19,2.78,OMNY,0,0,Afternoon
+1010,2024-05-04,34th-Penn,23rd St,42,2.72,MetroCard,10,2,Morning
+1011,2024-05-05,23rd St,Times Sq-42nd,15,2.84,MetroCard,5,1,Night
+1012,2024-05-06,Wall St,Times Sq-42nd,19,2.75,OMNY,10,0,Morning
+1013,2024-05-07,Wall St,34th-Penn,23,2.73,OMNY,8,2,Morning
+1014,2024-05-01,Brooklyn Br,23rd St,14,2.78,OMNY,0,0,Night
+1015,2024-05-02,Wall St,Jamaica Ctr,38,2.81,OMNY,8,2,Morning
+1016,2024-05-03,Times Sq-42nd,125th St,19,2.79,OMNY,10,1,Afternoon
+1017,2024-05-04,Wall St,34th-Penn,39,2.65,MetroCard,3,2,Night
+1018,2024-05-05,Grand Central,14th Union Sq,43,2.76,MetroCard,5,1,Morning
+1019,2024-05-06,Grand Central,Atlantic Av,39,2.8,MetroCard,5,0,Morning
+1020,2024-05-07,Brooklyn Br,14th Union Sq,16,2.83,OMNY,0,0,Evening
+1021,2024-05-01,34th-Penn,125th St,15,2.79,OMNY,0,2,Morning
+1022,2024-05-02,Wall St,125th St,18,2.79,MetroCard,8,1,Morning
+1023,2024-05-03,Wall St,34th-Penn,34,2.74,OMNY,5,1,Evening
+1024,2024-05-04,Grand Central,125th St,10,2.85,OMNY,0,1,Night
+1025,2024-05-05,Borough Hall,34th-Penn,28,2.78,OMNY,2,1,Afternoon
+1026,2024-05-06,Fulton St,14th Union Sq,12,2.75,OMNY,0,0,Morning
+1027,2024-05-07,Grand Central,Times Sq-42nd,9,2.73,OMNY,0,1,Evening
+1028,2024-05-01,23rd St,Atlantic Av,14,2.66,OMNY,0,1,Morning
+1029,2024-05-02,Times Sq-42nd,Grand Central,10,2.69,MetroCard,2,2,Evening
+1030,2024-05-03,Borough Hall,Jamaica Ctr,17,2.8,MetroCard,5,1,Evening
+1031,2024-05-04,Times Sq-42nd,125th St,33,2.84,MetroCard,10,0,Night
+1032,2024-05-05,125th St,Atlantic Av,33,2.67,MetroCard,10,0,Morning
+1033,2024-05-06,Borough Hall,125th St,13,2.66,MetroCard,10,2,Night
+1034,2024-05-07,Brooklyn Br,Atlantic Av,24,2.7,OMNY,0,1,Morning
+1035,2024-05-01,Atlantic Av,Brooklyn Br,21,2.66,MetroCard,3,1,Morning
+1036,2024-05-02,14th Union Sq,125th St,38,2.71,OMNY,0,1,Afternoon
+1037,2024-05-03,34th-Penn,Grand Central,34,2.71,OMNY,5,0,Afternoon
+1038,2024-05-04,Brooklyn Br,23rd St,15,2.77,OMNY,10,2,Evening
+1039,2024-05-05,125th St,34th-Penn,22,2.7,OMNY,5,2,Evening
+1040,2024-05-06,125th St,Fulton St,41,2.65,MetroCard,0,2,Afternoon
+1041,2024-05-07,125th St,14th Union Sq,18,2.74,OMNY,0,2,Morning
+1042,2024-05-01,Borough Hall,Jamaica Ctr,22,2.82,MetroCard,0,0,Morning
+1043,2024-05-02,Fulton St,23rd St,17,2.66,MetroCard,5,0,Afternoon
+1044,2024-05-03,Borough Hall,Fulton St,44,2.82,OMNY,10,0,Evening
+1045,2024-05-04,Fulton St,14th Union Sq,27,2.71,MetroCard,8,2,Evening
+1046,2024-05-05,14th Union Sq,Atlantic Av,45,2.68,MetroCard,0,2,Morning
+1047,2024-05-06,Grand Central,34th-Penn,37,2.75,MetroCard,3,2,Night
+1048,2024-05-07,125th St,Brooklyn Br,29,2.66,OMNY,0,0,Evening
+1049,2024-05-01,Fulton St,14th Union Sq,41,2.72,OMNY,10,1,Afternoon
+1050,2024-05-02,Atlantic Av,Brooklyn Br,16,2.81,OMNY,0,0,Morning
+1051,2024-05-03,Grand Central,Borough Hall,13,2.66,MetroCard,5,0,Afternoon
+1052,2024-05-04,23rd St,125th St,8,2.82,MetroCard,0,2,Afternoon
+1053,2024-05-05,Jamaica Ctr,34th-Penn,43,2.78,OMNY,0,1,Morning
+1054,2024-05-06,34th-Penn,Atlantic Av,20,2.83,OMNY,10,1,Night
+1055,2024-05-07,Fulton St,Times Sq-42nd,38,2.75,OMNY,5,1,Night
+1056,2024-05-01,Brooklyn Br,Grand Central,30,2.82,OMNY,10,1,Morning
+1057,2024-05-02,Grand Central,Brooklyn Br,24,2.79,MetroCard,0,1,Afternoon
+1058,2024-05-03,Brooklyn Br,Grand Central,42,2.78,OMNY,0,0,Night
+1059,2024-05-04,Wall St,Brooklyn Br,27,2.76,OMNY,3,0,Night
+1060,2024-05-05,125th St,Grand Central,34,2.85,MetroCard,2,1,Night
+1061,2024-05-06,34th-Penn,Grand Central,35,2.84,OMNY,3,1,Morning
+1062,2024-05-07,34th-Penn,Grand Central,14,2.77,OMNY,5,0,Night
+1063,2024-05-01,23rd St,14th Union Sq,9,2.76,MetroCard,3,1,Afternoon
+1064,2024-05-02,Jamaica Ctr,Grand Central,44,2.76,OMNY,0,2,Morning
+1065,2024-05-03,34th-Penn,23rd St,33,2.79,OMNY,0,0,Night
+1066,2024-05-04,125th St,Atlantic Av,10,2.7,OMNY,8,1,Morning
+1067,2024-05-05,Borough Hall,Fulton St,38,2.77,MetroCard,2,1,Night
+1068,2024-05-06,Brooklyn Br,14th Union Sq,14,2.74,OMNY,0,0,Afternoon
+1069,2024-05-07,23rd St,34th-Penn,26,2.79,OMNY,0,2,Evening
+1070,2024-05-01,14th Union Sq,Grand Central,33,2.81,MetroCard,0,2,Morning
+1071,2024-05-02,125th St,Fulton St,38,2.66,MetroCard,10,2,Evening
+1072,2024-05-03,Times Sq-42nd,Jamaica Ctr,13,2.74,OMNY,5,2,Night
+1073,2024-05-04,Times Sq-42nd,Jamaica Ctr,44,2.72,MetroCard,3,1,Morning
+1074,2024-05-05,Grand Central,Fulton St,12,2.66,OMNY,2,0,Night
+1075,2024-05-06,Wall St,Atlantic Av,40,2.75,MetroCard,0,1,Night
+1076,2024-05-07,Brooklyn Br,Jamaica Ctr,34,2.68,MetroCard,8,1,Night
+1077,2024-05-01,Fulton St,Jamaica Ctr,8,2.8,MetroCard,8,0,Afternoon
+1078,2024-05-02,Jamaica Ctr,125th St,16,2.74,OMNY,2,1,Morning
+1079,2024-05-03,Fulton St,Grand Central,17,2.81,OMNY,3,0,Morning
+1080,2024-05-04,Brooklyn Br,Grand Central,27,2.79,MetroCard,2,2,Morning
+1081,2024-05-05,14th Union Sq,Brooklyn Br,37,2.71,MetroCard,8,1,Night
+1082,2024-05-06,Fulton St,Atlantic Av,10,2.73,MetroCard,3,1,Evening
+1083,2024-05-07,14th Union Sq,Times Sq-42nd,25,2.82,OMNY,5,1,Morning
+1084,2024-05-01,23rd St,34th-Penn,34,2.68,MetroCard,0,0,Night
+1085,2024-05-02,Brooklyn Br,Times Sq-42nd,28,2.79,OMNY,5,2,Evening
+1086,2024-05-03,14th Union Sq,34th-Penn,40,2.77,OMNY,3,0,Afternoon
+1087,2024-05-04,23rd St,Times Sq-42nd,12,2.65,OMNY,3,2,Night
+1088,2024-05-05,Fulton St,Grand Central,39,2.73,OMNY,0,2,Morning
+1089,2024-05-06,Times Sq-42nd,34th-Penn,30,2.81,OMNY,0,0,Evening
+1090,2024-05-07,Grand Central,34th-Penn,42,2.82,MetroCard,2,0,Night
+1091,2024-05-01,Jamaica Ctr,Grand Central,22,2.77,MetroCard,3,2,Afternoon
+1092,2024-05-02,Atlantic Av,Jamaica Ctr,12,2.72,MetroCard,0,1,Afternoon
+1093,2024-05-03,Jamaica Ctr,Times Sq-42nd,23,2.81,OMNY,10,1,Morning
+1094,2024-05-04,Wall St,Brooklyn Br,43,2.78,OMNY,10,0,Morning
+1095,2024-05-05,Atlantic Av,Wall St,9,2.82,MetroCard,0,0,Night
+1096,2024-05-06,Wall St,Borough Hall,42,2.78,OMNY,8,1,Afternoon
+1097,2024-05-07,Grand Central,Atlantic Av,23,2.7,MetroCard,5,0,Evening
+1098,2024-05-01,34th-Penn,Brooklyn Br,31,2.8,OMNY,0,2,Evening
+1099,2024-05-02,34th-Penn,125th St,41,2.81,MetroCard,5,1,Evening
+1100,2024-05-03,Atlantic Av,Times Sq-42nd,37,2.85,OMNY,0,2,Afternoon
+1101,2024-05-04,Times Sq-42nd,14th Union Sq,41,2.81,MetroCard,8,1,Morning
+1102,2024-05-05,125th St,Atlantic Av,19,2.71,OMNY,0,0,Night
+1103,2024-05-06,34th-Penn,125th St,43,2.67,OMNY,0,0,Afternoon
+1104,2024-05-07,14th Union Sq,Borough Hall,11,2.74,MetroCard,5,1,Evening
+1105,2024-05-01,125th St,Atlantic Av,26,2.71,MetroCard,0,1,Morning
+1106,2024-05-02,Jamaica Ctr,Wall St,17,2.76,MetroCard,0,2,Afternoon
+1107,2024-05-03,Times Sq-42nd,23rd St,20,2.72,MetroCard,10,0,Afternoon
+1108,2024-05-04,Brooklyn Br,23rd St,17,2.79,OMNY,0,2,Morning
+1109,2024-05-05,Grand Central,14th Union Sq,39,2.82,OMNY,2,2,Night
+1110,2024-05-06,Wall St,Borough Hall,30,2.69,MetroCard,0,0,Afternoon
+1111,2024-05-07,Wall St,Grand Central,40,2.83,OMNY,10,2,Morning
+1112,2024-05-01,Fulton St,34th-Penn,34,2.78,OMNY,3,0,Night
+1113,2024-05-02,Brooklyn Br,34th-Penn,36,2.66,OMNY,3,0,Afternoon
+1114,2024-05-03,Wall St,Grand Central,13,2.75,OMNY,0,1,Evening
+1115,2024-05-04,Grand Central,Jamaica Ctr,28,2.67,MetroCard,8,2,Night
+1116,2024-05-05,23rd St,Times Sq-42nd,13,2.83,MetroCard,8,2,Afternoon
+1117,2024-05-06,Grand Central,Atlantic Av,19,2.72,MetroCard,0,2,Evening
+1118,2024-05-07,Brooklyn Br,125th St,35,2.83,MetroCard,0,1,Night
+1119,2024-05-01,Times Sq-42nd,14th Union Sq,22,2.71,OMNY,0,2,Evening
+1120,2024-05-02,23rd St,Grand Central,43,2.65,OMNY,3,1,Morning
+1121,2024-05-03,Wall St,Atlantic Av,11,2.65,OMNY,5,1,Evening
+1122,2024-05-04,Times Sq-42nd,Jamaica Ctr,15,2.74,OMNY,0,1,Afternoon
+1123,2024-05-05,34th-Penn,125th St,24,2.76,OMNY,3,2,Night
+1124,2024-05-06,Grand Central,34th-Penn,43,2.68,OMNY,0,0,Morning
+1125,2024-05-07,Wall St,125th St,40,2.77,MetroCard,0,0,Night
+1126,2024-05-01,23rd St,Times Sq-42nd,18,2.8,MetroCard,0,0,Morning
+1127,2024-05-02,125th St,14th Union Sq,21,2.76,MetroCard,8,0,Morning
+1128,2024-05-03,Brooklyn Br,Atlantic Av,20,2.69,MetroCard,5,2,Afternoon
+1129,2024-05-04,Borough Hall,23rd St,45,2.83,OMNY,8,0,Morning
+1130,2024-05-05,Times Sq-42nd,Fulton St,11,2.77,OMNY,3,2,Night
+1131,2024-05-06,Borough Hall,Jamaica Ctr,23,2.68,OMNY,0,2,Evening
+1132,2024-05-07,Atlantic Av,14th Union Sq,8,2.84,MetroCard,0,0,Night
+1133,2024-05-01,Fulton St,Jamaica Ctr,22,2.66,OMNY,5,0,Night
+1134,2024-05-02,14th Union Sq,34th-Penn,43,2.82,MetroCard,10,1,Afternoon
+1135,2024-05-03,Jamaica Ctr,34th-Penn,18,2.79,OMNY,0,0,Afternoon
+1136,2024-05-04,Jamaica Ctr,Borough Hall,38,2.8,OMNY,5,1,Evening
+1137,2024-05-05,125th St,23rd St,21,2.67,OMNY,0,0,Night
+1138,2024-05-06,Borough Hall,Grand Central,44,2.75,MetroCard,2,1,Evening
+1139,2024-05-07,Atlantic Av,Jamaica Ctr,38,2.84,OMNY,0,1,Night
+1140,2024-05-01,14th Union Sq,Grand Central,16,2.78,OMNY,10,2,Morning
+1141,2024-05-02,Wall St,Fulton St,10,2.77,OMNY,0,1,Night
+1142,2024-05-03,Grand Central,Borough Hall,9,2.82,MetroCard,0,0,Night
+1143,2024-05-04,Times Sq-42nd,125th St,39,2.8,MetroCard,0,0,Evening
+1144,2024-05-05,Jamaica Ctr,23rd St,23,2.67,MetroCard,0,1,Afternoon
+1145,2024-05-06,Wall St,Atlantic Av,18,2.73,MetroCard,3,0,Evening
+1146,2024-05-07,14th Union Sq,34th-Penn,32,2.7,MetroCard,0,0,Afternoon
+1147,2024-05-01,125th St,14th Union Sq,38,2.66,OMNY,2,0,Evening
+1148,2024-05-02,Wall St,34th-Penn,30,2.79,OMNY,0,0,Morning
+1149,2024-05-03,23rd St,125th St,9,2.69,MetroCard,0,1,Afternoon
+1150,2024-05-04,Atlantic Av,23rd St,43,2.67,OMNY,3,1,Night
+1151,2024-05-05,Jamaica Ctr,Grand Central,44,2.77,MetroCard,10,2,Afternoon
+1152,2024-05-06,34th-Penn,14th Union Sq,36,2.71,OMNY,0,0,Morning
+1153,2024-05-07,Brooklyn Br,Grand Central,13,2.8,MetroCard,5,0,Morning
+1154,2024-05-01,Jamaica Ctr,Grand Central,34,2.82,MetroCard,0,0,Night
+1155,2024-05-02,Jamaica Ctr,Borough Hall,11,2.73,MetroCard,0,0,Morning
+1156,2024-05-03,Fulton St,Wall St,22,2.67,MetroCard,0,2,Evening
+1157,2024-05-04,Grand Central,Wall St,28,2.78,MetroCard,2,2,Morning
+1158,2024-05-05,Grand Central,Atlantic Av,40,2.69,MetroCard,0,1,Afternoon
+1159,2024-05-06,Fulton St,Wall St,27,2.7,OMNY,0,1,Night
+1160,2024-05-07,Jamaica Ctr,Wall St,10,2.8,MetroCard,5,0,Evening
+1161,2024-05-01,Fulton St,Wall St,27,2.83,MetroCard,0,2,Afternoon
+1162,2024-05-02,Wall St,Borough Hall,42,2.82,OMNY,5,2,Afternoon
+1163,2024-05-03,Borough Hall,Grand Central,27,2.71,MetroCard,5,2,Morning
+1164,2024-05-04,23rd St,Grand Central,45,2.81,MetroCard,3,1,Night
+1165,2024-05-05,Atlantic Av,Wall St,17,2.7,OMNY,0,0,Evening
+1166,2024-05-06,Atlantic Av,14th Union Sq,31,2.82,OMNY,5,1,Afternoon
+1167,2024-05-07,Borough Hall,Grand Central,17,2.77,OMNY,8,1,Evening
+1168,2024-05-01,Times Sq-42nd,Wall St,25,2.69,OMNY,5,1,Morning
+1169,2024-05-02,14th Union Sq,125th St,11,2.72,MetroCard,2,2,Evening
+1170,2024-05-03,125th St,Grand Central,19,2.71,OMNY,2,1,Evening
+1171,2024-05-04,Fulton St,Brooklyn Br,12,2.74,OMNY,10,2,Night
+1172,2024-05-05,Fulton St,Jamaica Ctr,15,2.79,OMNY,0,1,Evening
+1173,2024-05-06,Atlantic Av,34th-Penn,27,2.72,OMNY,0,0,Morning
+1174,2024-05-07,23rd St,34th-Penn,8,2.66,MetroCard,0,1,Afternoon
+1175,2024-05-01,14th Union Sq,Wall St,17,2.79,MetroCard,0,1,Morning
+1176,2024-05-02,34th-Penn,125th St,44,2.74,OMNY,0,0,Night
+1177,2024-05-03,Times Sq-42nd,125th St,44,2.7,OMNY,0,2,Evening
+1178,2024-05-04,23rd St,Brooklyn Br,37,2.73,OMNY,0,2,Night
+1179,2024-05-05,Wall St,Fulton St,31,2.85,OMNY,5,0,Evening
+1180,2024-05-06,Wall St,Borough Hall,39,2.85,MetroCard,0,2,Evening
+1181,2024-05-07,Borough Hall,23rd St,16,2.85,OMNY,8,1,Night
+1182,2024-05-01,Times Sq-42nd,Borough Hall,38,2.82,MetroCard,0,0,Afternoon
+1183,2024-05-02,Jamaica Ctr,Fulton St,9,2.67,MetroCard,3,0,Evening
+1184,2024-05-03,34th-Penn,14th Union Sq,45,2.79,OMNY,0,0,Afternoon
+1185,2024-05-04,23rd St,34th-Penn,43,2.77,MetroCard,3,1,Night
+1186,2024-05-05,Borough Hall,Jamaica Ctr,13,2.67,OMNY,2,0,Morning
+1187,2024-05-06,Borough Hall,Times Sq-42nd,41,2.71,MetroCard,10,1,Morning
+1188,2024-05-07,Grand Central,14th Union Sq,32,2.69,OMNY,5,0,Afternoon
+1189,2024-05-01,Atlantic Av,34th-Penn,44,2.81,MetroCard,5,2,Afternoon
+1190,2024-05-02,Wall St,34th-Penn,10,2.82,OMNY,3,1,Evening
+1191,2024-05-03,Times Sq-42nd,125th St,15,2.73,MetroCard,0,2,Night
+1192,2024-05-04,125th St,Jamaica Ctr,40,2.74,MetroCard,10,0,Morning
+1193,2024-05-05,125th St,23rd St,30,2.75,MetroCard,3,1,Morning
+1194,2024-05-06,Brooklyn Br,34th-Penn,19,2.77,OMNY,0,1,Morning
+1195,2024-05-07,Jamaica Ctr,Borough Hall,22,2.79,OMNY,0,2,Morning
+1196,2024-05-01,Brooklyn Br,23rd St,34,2.81,MetroCard,3,0,Afternoon
+1197,2024-05-02,125th St,Brooklyn Br,33,2.71,MetroCard,0,2,Morning
+1198,2024-05-03,Atlantic Av,34th-Penn,27,2.78,MetroCard,10,0,Afternoon
+1199,2024-05-04,14th Union Sq,Fulton St,19,2.79,OMNY,0,0,Morning
